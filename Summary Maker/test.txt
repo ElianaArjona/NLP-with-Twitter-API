@@ -1,0 +1,395 @@
+hola a todos en esta oportunidad haremos
+00:07
+un repaso por las noticias
+00:08
+investigaciones más relevantes de este
+00:09
+año que publicamos en nuestro portal lip
+00:11
+security puntocom a comienzos de 2019
+00:14
+microsoft anunció que dejará de ofrecer
+00:15
+soporte gratuito a las distintas
+00:17
+versiones de windows 7 a partir del 14
+00:19
+de enero de 2020 los parches de
+00:21
+seguridad que puedan surgir solo estarán
+00:23
+disponibles para usuarios suscriptos a
+00:24
+planes de soporte pagos denominados
+00:26
+extended security updates
+00:28
+desafortunadamente esta opción sólo
+00:30
+estará disponible para empresas que
+00:31
+compren en volumen por lo tanto los
+00:33
+usuarios hogareños deberán pagar para
+00:35
+actualizar su sistema operativo windows
+00:36
+10 o comprar un nuevo equipo en cuanto a
+00:39
+vulnerabilidades a principios de este
+00:41
+año se descubrió un fallo crítico que
+00:42
+afectaba a todas las versiones de wii
+00:44
+el popular software para comprimir
+00:45
+archivos que ha sido descargado por más
+00:47
+de 500 millones de usuarios
+00:48
+la vulnerabilidad descubierta que
+00:50
+radicaba en una librería utilizada para
+00:52
+desempaquetar archivos en formato 6
+00:53
+permitía ocultar un programa malicioso y
+00:55
+extraerlo en la carpeta de inicio de un
+00:57
+equipo para ser ejecutado de manera
+00:58
+automática una vez que el equipo se ha
+01:00
+reiniciado si bien la compañía
+01:02
+responsable de este software lanzó a la
+01:03
+brevedad una nueva versión de la
+01:05
+herramienta con el parche
+01:06
+correspondiente al poco tiempo de
+01:07
+conocerse esta vulnerabilidad comenzaron
+01:09
+a verse campañas maliciosas que
+01:10
+intentaban explotar
+01:12
+y se detectó que en foros clandestinos
+01:14
+ofrecían herramientas para crear
+01:16
+archivos rar maliciosos de hecho una
+01:18
+investigación publicada por st en agosto
+01:20
+reveló detalles de una campaña dirigida
+01:22
+a departamentos financieros en los
+01:23
+balcanes que instalaba un vactor
+01:25
+mediante la explotación de esta
+01:26
+vulnerabilidad de windows en cuanto a
+01:28
+filtraciones de datos se refiere a
+01:30
+comienzos de esta 2019 circuló lo que
+01:32
+para algunos especialistas fue la
+01:33
+colección de brechas más grandes que se
+01:34
+haya visto hasta el momento hablamos de
+01:36
+más de 2.200 millones de direcciones de
+01:38
+correo y contraseñas que fueron
+01:39
+filtradas en antiguas brechas y que se
+01:41
+distribuyeron en cinco paquetes
+01:42
+diferentes que van desde collection one
+01:44
+a collection file el conjunto de datos
+01:47
+estaba dividido en siete carpetas que
+01:48
+pesaban un total de 993 gigabytes y eran
+01:51
+comercializados en sitios clandestinos
+01:53
+por 45 dólares en mayo de este año
+01:55
+microsoft alertó a la comunidad al
+01:57
+emitir un comunicado en el que informaba
+01:59
+acerca de un nuevo parche que reparaba
+02:01
+una falla crítica en los servicios de
+02:02
+escritorio remoto que afecta a varias
+02:04
+versiones de windows se trata de una
+02:05
+falla particularmente severa dado que
+02:07
+por sus características en caso de ser
+02:10
+explotada esta vulnerabilidad
+02:11
+apodada como blue keep podría tener
+02:13
+consecuencias similares a guanacaste dos
+02:15
+semanas después del anuncio microsoft
+02:17
+volvió a lanzar otro comunica
+02:18
+recordando la importancia de actualizar
+02:20
+los sistemas operativos paralelamente
+02:22
+además de acaparar la atención de muchos
+02:24
+investigadores y de la comunidad en
+02:25
+seguridad en general comenzaron a
+02:27
+publicarse múltiples pruebas de concepto
+02:29
+e incluso la enee sea a comienzos de
+02:31
+junio reforzó el llamado de atención de
+02:33
+microsoft manifestando su preocupación
+02:34
+ante la posible explotación de blue clip
+02:37
+para distribuir ataques de ransomware y
+02:39
+exploits llegado el mes de noviembre se
+02:41
+detectaron ataques de blue keep que si
+02:43
+bien sólo lograron distribuir mineros de
+02:44
+script o monedas es muy factible que en
+02:46
+el corto plazo se utilice esta
+02:47
+vulnerabilidad para intentar distribuir
+02:49
+amenazas más peligrosas a mediados de
+02:51
+este año los desarrolladores del
+02:52
+ransomware gun craft anunciaron que
+02:54
+dejarían de operar mediante un
+02:55
+comunicado esta familia de malware tuvo
+02:57
+un rápido crecimiento desde su aparición
+02:59
+a principios de 2018 y se posicionó
+03:02
+entre las más detectadas en pocos meses
+03:03
+con muchas víctimas de américa latina
+03:05
+pese a advertir en el comunicado que
+03:07
+quienes no realizaban el pago
+03:08
+correspondiente no iban a poder
+03:09
+recuperar sus archivos del fbi junto a
+03:12
+las agencias de seguridad de ocho países
+03:14
+europeos publicó una herramienta de
+03:16
+descifrado para todas las versiones del
+03:17
+ransomware dos semanas después del
+03:19
+anuncio además durante este año otra
+03:21
+aplicación de vpn desarrollada por
+03:23
+facebook fue retirada de la tienda
+03:24
+de apple la app denominada facebook
+03:27
+research fue bloqueada en actor por
+03:28
+violar sus políticas mediante un uso
+03:30
+inadecuado de un certificado de la
+03:31
+compañía la aplicación formaba parte de
+03:33
+un proyecto denominado project atlas que
+03:36
+pagaba 20 dólares por mes a usuarios de
+03:38
+entre 13 y 35 años para que usen la
+03:40
+aplicación con el objetivo de recolectar
+03:41
+datos de sus dispositivos otra de las
+03:44
+noticias relevantes de este año fue el
+03:45
+ataque de ransomware que ocurrió en
+03:46
+agosto y afectó a 23 agencias
+03:48
+gubernamentales en el estado de texas en
+03:50
+eeuu
+03:51
+este incidente se sumó al ataque de
+03:53
+ransomware que afectó a la ciudad de
+03:54
+baltimore en el estado de maryland que
+03:56
+bloqueó cuentas de correo
+03:57
+gubernamentales entre otros problemas
+03:58
+más estas noticias ejemplifican el
+04:00
+cambio de comportamiento de los
+04:02
+cibercriminales en relación a los
+04:03
+ataques de ransomware ya que como
+04:05
+adelantamos que ocurriría en tendencias
+04:06
+2019 los actores maliciosos dejaron de
+04:09
+dirigir ataques de ransomware de manera
+04:11
+masiva para apuntar a blancos
+04:12
+específicos de hecho en eeuu dos tercios
+04:15
+de los ataques de rne somos registrados
+04:17
+durante el presente año fueron dirigidos
+04:18
+a entidades gubernamentales a fines de
+04:21
+2019 vimos en españa y en algunos países
+04:23
+de américa latina' casos similares como
+04:25
+fue el ataque de ransomware a la
+04:26
+petrolera estatal mexicana pemex en este
+04:28
+caso puntual la nota que dejaron los
+04:30
+cibercriminales
+04:31
+a este cambio de enfoque hacia ataques
+04:33
+dirigidos ya que confirman que el monto
+04:35
+exigido para recuperar los archivos
+04:36
+cifrados se determinó en base a
+04:38
+características específicas de la
+04:39
+compañía además durante este año los
+04:41
+equipos de investigación realizaron
+04:43
+varios hallazgos relevantes en octubre
+04:45
+de este año por ejemplo demostraron como
+04:47
+el grupo de apt the dukes sospechado de
+04:49
+infiltrarse en el comité nacional
+04:50
+demócrata de eeuu ha estado bastante
+04:52
+activo desarrollando nuevos implantes y
+04:54
+comprometiendo blancos gubernamentales
+04:55
+mientras se mantenían lejos de los
+04:57
+radares de detección las actividades
+04:59
+realizadas por el grupo y que fueron
+05:00
+descubiertas recientemente se
+05:02
+denominaron operation ghost
+05:04
+además develaron que los operadores
+05:05
+detrás del malware machete están activos
+05:07
+y llevando adelante una operación de
+05:09
+ciberespionaje en américa latina durante
+05:11
+la investigación descubrieron que el
+05:12
+grupo robó gigabytes de documentos
+05:14
+confidenciales de organizaciones
+05:15
+gubernamentales de ecuador colombia
+05:17
+nicaragua y venezuela y que los
+05:19
+atacantes siguen estando activos
+05:20
+introduciendo cambios en su malware
+05:22
+por último analizaron una campaña
+05:24
+dirigida a usuarios de francia que
+05:25
+distribuye un malware que graba la
+05:27
+pantalla de sus víctimas cuando ven
+05:28
+pornografía esta amenaza que denominamos
+05:31
+marenic y además de espiar y robar
+05:33
+contraseñas extorsión a sus víctimas a
+05:35
+cambio de que envíen un pago en bitcoins
+05:37
+bueno amigos esto ha sido todo por hoy
+05:39
+esperamos hayan disfrutado el resumen
+05:40
+anual y los invitamos a seguir visitando
+05:42
+nuestro canal de youtube y nuestro
+05:43
+portal winter gripe puntocom barra latam
+05:45
+para mantenerse informado y actualizado
+05:48
+con lo más importante en materia de
+05:49
+seguridad informática
